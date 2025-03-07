@@ -2,3 +2,8 @@ scikit-learn
 numpy
 tensorflow
 pandas
+xgboost
+matplotlib
+seaborn
+scipy
+pickel
